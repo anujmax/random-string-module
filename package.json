@@ -1,0 +1,25 @@
+{
+  "name": "random-string-module-learning",
+  "version": "0.10.0",
+  "description": "A module that returns alphanumeric strings",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anujmax/random-string-module.git"
+  },
+  "keywords": [
+    "string",
+    "random",
+    "crypto",
+    "characters"
+  ],
+  "author": "Anuj Agrawal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anujmax/random-string-module/issues"
+  },
+  "homepage": "https://github.com/anujmax/random-string-module#readme"
+}
